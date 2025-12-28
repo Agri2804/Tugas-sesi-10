@@ -1,0 +1,13 @@
+# dependency
+node_modules/
+
+# test reports
+reports/
+*.xlsx
+
+# logs
+*.log
+
+# OS / editor
+.DS_Store
+.vscode/
